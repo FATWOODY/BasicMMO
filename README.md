@@ -28,6 +28,9 @@ With a built-in admin panel and customizable features, **BasicMMO** is perfect f
 5. Read the installation guide for more specifics to edit in the database.sql and etc.
 6. Visit the admin panel to manage your game settings and customize the gameplay. (admin/123456)
 
+ ## Demo
+ https://www.BasicMMO.com
+
 ## Contributing
 We welcome contributions to improve **BasicMMO**! Feel free to fork this repository, make changes, and submit a pull request.
 
