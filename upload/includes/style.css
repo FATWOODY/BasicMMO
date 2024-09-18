@@ -1,0 +1,67 @@
+a:link, a:visited, a:active { color: #000000; text-decoration: underline; }
+a:hover { color: #01a7bd; }
+body { background-color: #a6a18b; background-image: url(../images/body_bgt.gif); background-repeat: repeat-x; color: Black; font-family: Verdana, sans-serif; font-size: 11px; margin: 0px; text-align: center; }
+img { border: 0px; }
+table, td, tr { color: Black; font-family: Verdana, sans-serif; font-size: 11px; }
+.blacktext { color: #000000; }
+.botcontent { background-color: #E9E9E9; height: 8px; text-align: right; }
+.botnav { background-color: #E9E9E9; height: 8px; text-align: left; }
+.comments { font-size: 10px; line-height: 16px; text-align: right; }
+.comments a:link, .comments  a:visited, .comments :active { color: #01a7bd; font-weight: bold; text-decoration: none; }
+.comments a:hover { color: Black; text-decoration: none; }
+.content { background-color: #E9E9E9; padding-left: 8px; padding-right: 8px; vertical-align: top; width: 598px; }
+.date { color: #9A9A9A; font-size: 10px; }
+.footer { background-image: url(../images/footer_bg.gif); background-position: bottom; background-repeat: repeat-x; color: #FFFFFF; font-size: 10px; font-weight: bold; height: 24px; padding-left: 10px; padding-right: 10px; }
+.footer a:link, .footer  a:visited, .footer :active { color: #FFFFFF; text-decoration: none; }
+.footer a:hover { text-decoration: underline; }
+.leftmargin, .rightmargin { width: 8px; }
+.logoarea { background-color: #4E4E4E; background-image: url(../images/logoarea_bg.gif); height: 87px; width: 780px; }
+.middlemargin { background-color: #9A9A9A; background-image: url(../images/middlemargin_bg.gif); width: 8px; }
+.nav { background-color: #E9E9E9; color: #9A9A9A; padding-left: 8px; padding-right: 8px; vertical-align: top; width: 12px; }
+.nav a:link, .nav  a:visited, .nav :active { text-decoration: none; }
+.nav a:hover { color: #01a7bd; text-decoration: underline; }
+.news { vertical-align: top; }
+.recent { padding-left: 8px; vertical-align: top; width: 150px; }
+.recentlinks { font-size: 10px; }
+.recentlinks a:link, .recentlinks  a:visited, .recentlinks :active { color: Black; }
+.recentlinks a:hover { color: #01a7bd; font-size: 10px; text-decoration: underline; }
+.reviewnav { border-bottom-color: #9A9A9A; border-bottom-style: solid; border-bottom-width: 1px; font-size: 11px; font-weight: bold;  width: 55%;  padding-bottom: 3px; }
+.reviewnav a:link, .reviewnav  a:visited, .reviewnav :active { color: #01a7bd; text-decoration: none; }
+.reviewnav a:hover { color: Black; }
+.topcontent { background-color: #E9E9E9; background-image: url(../images/container_bgt.gif); height: 8px; text-align: right; }
+.topnav { background-color: #E9E9E9; background-image: url(../images/container_bgt.gif); height: 8px; text-align: left; }
+#container { background-color: #4E4E4E; background-image: url(../images/body_bg.gif); border: 1px solid #363636; margin-left: auto; margin-right: auto; text-align: left; width: 780px; }
+#section { color: #01a7bd; font-size: 11px; font-weight: bold; }
+#section a:link, #section  a:visited, #section :active { color: #01a7bd; text-decoration: none; }
+#section a:hover { color: Black; }
+.pbgreen
+{
+	background-color: #01a7bd;
+}
+.pbred
+{
+	background-color: #D13D3D;
+}
+tl { color: Black; font-family: sans-serif; font-size: 14px; margin: 0px; text-align: center; }
+#dropmenudiv{
+position:absolute;
+border:1px solid black;
+border-bottom-width: 0;
+font:normal 12px Verdana;
+line-height:18px;
+z-index:100;
+}
+
+#dropmenudiv a{
+width: 100%;
+display: block;
+text-indent: 3px;
+border-bottom: 1px solid black;
+padding: 1px 0;
+text-decoration: none;
+font-weight: bold;
+}
+
+#dropmenudiv a:hover{ /*hover background color*/
+background-color: #000000;
+}
