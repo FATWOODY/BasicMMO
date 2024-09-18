@@ -25,7 +25,8 @@ With a built-in admin panel and customizable features, **BasicMMO** is perfect f
 2. Set up your MySQL database and import the provided SQL file.
 3. Edit the `config.php` file with your database details.
 4. Upload the script to your server using FTP.
-5. Visit the admin panel to manage your game settings and customize the gameplay.
+5. Read the installation guide for more specifics to edit in the database.sql and etc.
+6. Visit the admin panel to manage your game settings and customize the gameplay. (admin/123456)
 
 ## Contributing
 We welcome contributions to improve **BasicMMO**! Feel free to fork this repository, make changes, and submit a pull request.
